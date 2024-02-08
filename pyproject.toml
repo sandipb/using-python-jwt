@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 120
+
+[tool.pylint.messages_control]
+disable = ["C0116", "C0114", "W0718"]
